@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&display=swap');
+
+* {
+    font-family: var(--font);
+}
+
+:root {
+    --font: 'Be Vietnam Pro', sans-serif;
+}
+
+
+div.card {
+    background-color: #8854C7;
+    border-radius: 2rem;
+}
+
+div.wrap {
+    padding-bottom: 4rem;
+    height: 100%;
+    background: linear-gradient(135deg, rgba(183, 71, 113, 1) 0%, rgba(110, 39, 191, 1) 44%, rgba(73, 32, 145, 1) 74%, rgba(73, 32, 145, 1) 100%);
+}
+
+button.btn{
+    color:#4036A9;
+}
